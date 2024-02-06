@@ -1,0 +1,5 @@
+AmpBridgeTest:test_constructor() (gas: 25100)
+AmpBridgeTest:test_send_message() (gas: 901780)
+AmpBridgeTest:test_send_token() (gas: 1161826)
+SimpleBridgeTest:test_constructor() (gas: 17453)
+SimpleBridgeTest:test_send_message() (gas: 923238)
